@@ -111,7 +111,7 @@ hr.small {
     color: rgba(255,255,255,0.8);
   }
 }
-@media only screen and (min-width: 1170px) {
+@media only screen and (min-width: 768px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
@@ -166,7 +166,7 @@ hr.small {
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-  padding: 200px 0 50px;
+  padding: 100px 0 50px;
   color: #fff;
 }
 @media only screen and (min-width: 768px) {
@@ -199,7 +199,7 @@ hr.small {
   font-weight: 300;
   margin: 10px 0 0;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 12000px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 60px;
