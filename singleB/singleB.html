@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title></title>
+</head>
+<body>
+<div id="layout-content">
+<table class="imgtable"><tr><td>
+<img src="./poster.jpg" alt="word" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<h1>CNN中卷积计算单元电路设计</h1>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;在本题目中，请你基于FPGA设计一种面积小、性能高、可适用多种卷积核大小的卷积计算单元电路。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;在过去几年中，卷积神经网络在深度学习中取得了卓越的成绩。卷积神经网络中最核心的计算是特征图pixel和卷积核weight的卷积计算，如下公式所述：</p>
+<table class="imgtable"><tr><td>
+<img src="./fig1.jpg" alt="word" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;请设计一个可以计算多种大小卷积核的电路模块，运用该模块完成以下的三层卷积计算：给定一张64<b>64</b>3的图片，依次和7<b>7</b>3<b>8，5</b>5<b>8</b>16，3<b>3</b>16*32的卷积核进行卷积运算，得到正确的输出结果。</p>
+<p>{}{img_left}{./fig2.jpg}{word}{}{}{}</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;注意：输入的图片和权重位宽为8bit，每层卷积的结果均截断为8bit；卷积的步长为1，无padding。FPGA的型号为PYNQ-Z1。</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;在本项竞赛中，请参赛选手遵循以下流程：</p>
+<h3>报名阶段</h3>
+<ul>
+<li><p>在官网上报名，按要求填写相关内容，包括成员信息、题目和选题摘要等。</p>
+</li>
+</ul>
+<h3>初赛阶段</h3>
+<ul>
+<li><p>需提交RTL代码、仿真文件，以及技术文档。技术文档至少应包括如下内容：</p>
+</li>
+</ul>
+<ol>
+<li><p>说明卷积电路的基本功能，包括（但不限于）：</p>
+<ol>
+<li><p>系统框图</p>
+</li>
+<li><p>通过和软件的结果对比，验证计算的准确性</p>
+</li>
+<li><p>延迟、资源消耗、吞吐率等性能指标</p>
+</li></ol>
+</li>
+<li><p>展示所设计电路面积<i>延迟</i>吞吐的优越性</p>
+</li>
+</ol>
+<h3>决赛阶段</h3>
+<ul>
+<li><p>各参赛队需提交进一步完善的技术文档、RTL代码、仿真文件，并进行现场海报展示和PPT答辩。决赛阶段由专家组进行评审，依据作品在PYNQ-Z1的展示情况、现场报告和技术文档进行现场打分。</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2019-05-14 17:12:16 DST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -11,7 +11,7 @@
 ~~~
 
 = 竞赛题目：模拟神经元的电路设计
-\&nbsp;\&nbsp;\&nbsp;\&nbsp;在本题目中，请你采用开源CMOS PDK [https://www.eda.ncsu.edu/wiki/FreePDK45:Contents (链接地址)]实现一个模拟集成电路的神经元电路。可以参考模拟神经元的经典论文\[FIR2006\]。
+\&nbsp;\&nbsp;\&nbsp;\&nbsp;在本题目中，请你采用开源CMOS PDK [https://www.eda.ncsu.edu/wiki/FreePDK45:Contents (链接地址)]实现一个模拟集成电路的神经元电路。可以参考模拟神经元的经典论文\[Indiveri2006\]。
 
 \&nbsp;\&nbsp;\&nbsp;\&nbsp;以模拟集成电路的方式实现神经元，比数字电路实现方式更加接近于生物神经元的工作模式，因此为很多学者所看好。然而模拟电路神经元面临很多挑战，其中主要就是面积和功耗。神经元的面积需要尽量的小，其功耗也需要尽可能的小，这样才能在单片上集成尽可能多的神经元，从而模拟大规模神经网络的功能。
 
@@ -30,7 +30,7 @@
 - 各参赛队需提交进一步完善的技术文档、电路网表、仿真文件，并进行现场海报展示和PPT答辩。决赛阶段由专家组进行评审，依据作品展示、现场报告和技术文档进行现场打分。
 ~~~
 参考文献\n
-\[FIR2006\] G. Indiveri, E. Chicca, R. Douglas, “A VLSI array of low-power spiking neurons and bistable synapses with spike-timing dependent plasticity,” IEEE Transactions on Neural Networks, vol. 17, no. 1, 2006.
+\[Indiveri2006\] G. Indiveri, E. Chicca, R. Douglas, “A VLSI array of low-power spiking neurons and bistable synapses with spike-timing dependent plasticity,” IEEE Transactions on Neural Networks, vol. 17, no. 1, 2006.
 ~~~
 
 
