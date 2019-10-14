@@ -4,4 +4,9 @@
 # jemdoc: nofooter
 
 
+~~~
+{}{img_left}{./word.png}{word}{750}{}{}
+~~~
+
+
 Hello
