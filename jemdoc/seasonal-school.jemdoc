@@ -13,21 +13,29 @@
 \&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;A brief introduction. [https://rebootingcomputing.ieee.org/lpirc IEEE LPIRC] (https:\/\/rebootingcomputing.ieee.org\/lpirc).
 
 == Call for Participation 
+
 \&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;blablabla
 
-. xxx
-. xxx
-. xxx
-. xxx
-. xxx
+== Programs
 
-Program Table
+~~~
+{}{table}{TABLENAME}
+first entry  | another entry ||
+as many rows | as you like   ||
+bottom row   | last entry
+~~~
 
 == Lecturers
 
-Lecturers Table
+~~~
+{}{table}{TABLENAME}
+first entry  | another entry ||
+as many rows | as you like   ||
+bottom row   | last entry
+~~~
 
 == Registration
+
 Click here to register
 
 == Contact Us
@@ -42,7 +50,7 @@ Click here to register
 
 == Sponsors and Acknowledges
 
-Table of pictures
+Sponsors Pictures
 
 ~~~
 {}{img_left}{./sponsor_new.jpg}{word}{}{}{}
