@@ -19,7 +19,7 @@
 == Programs
 
 ~~~
-{}{table}{TABLENAME}
+{}{table}{ProgramsTable}
 first entry  | another entry ||
 as many rows | as you like   ||
 bottom row   | last entry
@@ -28,7 +28,7 @@ bottom row   | last entry
 == Lecturers
 
 ~~~
-{}{table}{TABLENAME}
+{}{table}{LecturersTable}
 first entry  | another entry ||
 as many rows | as you like   ||
 bottom row   | last entry
