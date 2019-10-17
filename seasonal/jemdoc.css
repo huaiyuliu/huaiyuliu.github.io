@@ -3,7 +3,11 @@
 #Lecturers tr td:nth-child(2){
     color: red;
     text-align: left;
-    line-height: 30em;
+}
+
+#Lecturers tr td:nth-child(1){
+    color: blue;
+    line-height: 2em;
 }
 
 
