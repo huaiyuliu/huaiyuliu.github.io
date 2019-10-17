@@ -1,7 +1,8 @@
 /* Default css file for jemdoc. */
 
-#Lecturers td.d2{
+#Lecturers {
     color: red;
+    text-align:justify;
 }
 
 
