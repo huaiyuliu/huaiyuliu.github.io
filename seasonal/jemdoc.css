@@ -11,6 +11,12 @@
     line-height: 2em;
 }
 
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-7jqc{font-weight:bold;font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
+.tg .tg-8qy0{font-family:"Times New Roman", Times, serif !important;;background-color:#aabcfe;text-align:left;vertical-align:top}
+.tg .tg-fia5{font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
 
 table#tlayout {
     border: none;
