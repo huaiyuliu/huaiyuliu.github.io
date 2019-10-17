@@ -19,7 +19,7 @@
 == Programs
 
 ~~~
-{}{table}{countries}
+{}{table}{custom1}
 country | population | people per square km ||
 Canada | 33 million | 3.2 ||
 {{<span lang="zh-Hans">中华人民共和国</span>}}\n | 

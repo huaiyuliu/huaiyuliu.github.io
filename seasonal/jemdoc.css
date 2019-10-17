@@ -1,13 +1,8 @@
 /* Default css file for jemdoc. */
 
-#custom1 td, #custom1 th {
+#custom1{
     font-style: italic;
     color: red;
-    font-size: 50px;
-}
-
-#custom1 tr.alt{
-    color:green;
 }
 
 
