@@ -1,8 +1,7 @@
 /* Default css file for jemdoc. */
 
-custom1{
-    color: red;
-    font-size: 50px;
+#custom1 {
+	font-style: italic;
 }
 
 
