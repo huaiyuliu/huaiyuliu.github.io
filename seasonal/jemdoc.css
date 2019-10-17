@@ -6,6 +6,10 @@
     font-size: 50px;
 }
 
+#custom1 tr.alt{
+    color:green;
+}
+
 
 table#tlayout {
     border: none;
