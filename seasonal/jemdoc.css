@@ -3,6 +3,7 @@
 #Lecturers tr td:nth-child(2){
     color: red;
     text-align: left;
+    text-align: justify;
 }
 
 #Lecturers tr td:nth-child(1){
