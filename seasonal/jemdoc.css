@@ -1,8 +1,7 @@
 /* Default css file for jemdoc. */
 
-#Lecturers {
+#Lecturers tr td:nth-child(2){
     color: red;
-    text-align:justify;
 }
 
 
