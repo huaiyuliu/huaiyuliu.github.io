@@ -1,5 +1,11 @@
 /* Default css file for jemdoc. */
 
+custom1{
+    color: red;
+    font-size: 50px;
+}
+
+
 table#tlayout {
     border: none;
     border-collapse: separate;
