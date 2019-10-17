@@ -1,6 +1,6 @@
 /* Default css file for jemdoc. */
 
-#custom1 {
+#custom1 td, #custom1 th {
 	font-style: italic;
 }
 
