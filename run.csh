@@ -7,7 +7,7 @@ python2.7 ./jemdoc.py2 -o ../contest/ contest.jemdoc
 python2.7 ./jemdoc.py2 -o ../singleA/ singleA.jemdoc
 python2.7 ./jemdoc.py2 -o ../singleB/ singleB.jemdoc
 python2.7 ./jemdoc.py2 -o ../group/ group.jemdoc
-python2.7 ./jemdoc.py2 -o ../seasonal/ seasonal-school.jemdoc
+#python2.7 ./jemdoc.py2 -o ../seasonal/ seasonal-school.jemdoc
 cd ..
 git add *
 git commit -m "update webpage"

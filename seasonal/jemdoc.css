@@ -11,12 +11,11 @@
     line-height: 2em;
 }
 
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-7jqc{font-weight:bold;font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
-.tg .tg-8qy0{font-family:"Times New Roman", Times, serif !important;;background-color:#aabcfe;text-align:left;vertical-align:top}
-.tg .tg-fia5{font-family:"Times New Roman", Times, serif !important;;text-align:left;vertical-align:top}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg .tg-0ifa{font-weight:bold;font-size:15px;font-family:"Times New Roman", Times, serif !important;;border-color:#000000;text-align:center;vertical-align:middle}
+.tg .tg-p7h6{font-weight:bold;font-size:15px;font-family:"Times New Roman", Times, serif !important;;border-color:#000000;text-align:center;vertical-align:top}
 
 table#tlayout {
     border: none;
