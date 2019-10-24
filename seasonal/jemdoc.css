@@ -1,14 +1,21 @@
 /* Default css file for jemdoc. */
 
 #Lecturers tr td:nth-child(2){
-    color: red;
+    /*color: red;*/
     text-align: left;
     text-align: justify;
+    vertical-align: top;
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    line-height: 1.3em;
 }
 
 #Lecturers tr td:nth-child(1){
-    color: blue;
-    line-height: 2em;
+    /*color: blue;*/
+    line-height: 1.5em;
+    padding-top: 1em;
 }
 
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
