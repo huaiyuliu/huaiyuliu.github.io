@@ -1,0 +1,3 @@
+[submodule "proj/SJTU-AI-Contest-Submission"]
+	path = proj/SJTU-AI-Contest-Submission
+	url = git@github.com:yongfu-li/SJTU-AI-Contest-Submission.git
