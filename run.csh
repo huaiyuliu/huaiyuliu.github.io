@@ -1,9 +1,9 @@
 #!/bin/csh -f
 
-cd proj/SJTU-AI-Contest-Submission
-echo `pwd`
-git pull
-cd ../..
+#cd proj/SJTU-AI-Contest-Submission
+#echo `pwd`
+#git pull
+#cd ../..
 cd jemdoc
 #python3 xxxx --folder ../proj/SJTU-AI-Contest-Submission --header result_header.jemdoc > result.jemdoc
 #python2.7 ./jemdoc.py2 -o ../ index.jemdoc
